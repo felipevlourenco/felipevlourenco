@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevlourenco&count_private=true&show_icons=true&theme=dark)
-)](https://github.com/felipevlourenco/github-readme-stats)
+](https://github.com/felipevlourenco/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlourenco&layout=compact)](https://github.com/felipevlourenco/github-readme-stats)
 
