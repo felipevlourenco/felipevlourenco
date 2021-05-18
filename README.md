@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevlourenco)](https://github.com/felipevlourenco/github-readme-stats)
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevlourenco&count_private=true)
+)](https://github.com/felipevlourenco/github-readme-stats)
 
 <!--
 **felipevlourenco/felipevlourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
