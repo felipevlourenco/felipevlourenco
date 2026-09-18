@@ -5,8 +5,7 @@
 ](https://github.com/felipevlourenco/github-readme-stats)
 -->
 
-[![Felipe's GitHub stats](https://github-stats-extended.vercel.app/api?username=felipevlourenco)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=felipevlourenco&layout=compact&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=felipevlourenco&layout=compact&langs_count=4&theme=swift)
 <!--
 **felipevlourenco/felipevlourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
